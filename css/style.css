@@ -18,7 +18,11 @@
     letter-spacing: 0.5ch;
     font-family: arial; 
 }
-
+.work
+{
+    letter-spacing: 0.5ch;
+    font-family: arial; 
+}
 a{
     text-decoration: none;
 }
